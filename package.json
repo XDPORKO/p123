@@ -4,7 +4,6 @@
   "description": "Fake iPhone chat generator - Vercel deploy ready",
   "main": "s.js",
   "scripts": {
-    "dev": "vercel dev",
     "start": "vercel dev"
   },
   "dependencies": {
