@@ -1,0 +1,19 @@
+{
+  "name": "fakechat-vercel",
+  "version": "1.0.0",
+  "description": "Fake iPhone chat generator - Vercel deploy ready",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.4.0"
+  },
+  "devDependencies": {},
+  "keywords": ["fakechat", "iphone", "generator", "vercel"],
+  "author": "Rapiz",
+  "license": "MIT",
+  "type": "module"
+}
